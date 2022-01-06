@@ -32,4 +32,10 @@ O primeiro projeto consiste em reproduzir a página da [Feministech](https://fem
 
 Desktop
 
+![Desktop](./img/desktop.png)
+
+
 Mobile
+
+![Mobile](./img/mobile.png)
+

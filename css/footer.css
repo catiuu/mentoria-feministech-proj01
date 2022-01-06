@@ -1,0 +1,13 @@
+.footer__list {
+  list-style-type: none;
+  display: flex;
+  gap: 20px;
+}
+
+.footer__links:hover {
+  cursor: pointer;
+}
+
+.footer__icon:hover {
+  fill: #f208a4;
+}
